@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #0B2434;
+}
+
+main {
+    color: black;
+    background-color: #F5F5F5;
+    margin: auto;
+    padding: none;
+    width: 90%;
+    max-width: 800px;
+    height: 450px;
+    align-items: center;
+}
